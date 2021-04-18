@@ -2,7 +2,7 @@ from discord.ext import commands
 import config
 import asyncio
 import discord # 追加
-
+import guild # あったっけ？
 
 
 client = discord.Client() 
